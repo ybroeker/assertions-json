@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/ybroeker/assertions.svg?branch=master)](https://travis-ci.org/ybroeker/assertions)
-[![Maintainability](https://api.codeclimate.com/v1/badges/1f948b7bad12dbe6e093/maintainability)](https://codeclimate.com/github/ybroeker/assertions/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/2abb3778018a85f051e8/maintainability)](https://codeclimate.com/github/ybroeker/assertions-json/maintainability)
 
 ## Usage
 
