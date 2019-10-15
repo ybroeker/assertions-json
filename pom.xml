@@ -5,12 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>de.ybroeker</groupId>
-    <artifactId>assertions</artifactId>
-    <packaging>pom</packaging>
+    <artifactId>assertions-json</artifactId>
     <version>0.2-SNAPSHOT</version>
-    <modules>
-        <module>assertions-json</module>
-    </modules>
+
+    <packaging>jar</packaging>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -18,7 +16,6 @@
         <java.version>1.8</java.version>
         <junit.version>5.5.2</junit.version>
         <assertj.version>3.12.2</assertj.version>
-
     </properties>
 
     <dependencies>
@@ -33,7 +30,11 @@
             <version>${junit.version}</version>
             <scope>test</scope>
         </dependency>
-
+        <dependency>
+            <groupId>com.jayway.jsonpath</groupId>
+            <artifactId>json-path</artifactId>
+            <version>2.4.0</version>
+        </dependency>
     </dependencies>
 
     <build>
