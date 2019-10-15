@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/ybroeker/assertions.svg?branch=master)](https://travis-ci.org/ybroeker/assertions)
+[![Build Status](https://travis-ci.org/ybroeker/assertions-json.svg?branch=master)](https://travis-ci.org/ybroeker/assertions-json)
 [![Maintainability](https://api.codeclimate.com/v1/badges/2abb3778018a85f051e8/maintainability)](https://codeclimate.com/github/ybroeker/assertions-json/maintainability)
 
 ## Usage
